@@ -1,2 +1,2 @@
 # Deep-Learning
-Repo consisting important concepts of DL with Jupyter Notebook
+Repository consisting important concepts of DL with Jupyter Notebook
